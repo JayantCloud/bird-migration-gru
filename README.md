@@ -12,8 +12,8 @@ This project analyzes and predicts bird migration patterns using GPS tracking da
 
 | Member | Contribution |
 |--------|-------------|
-| Jayant Pandey | Data ingestion, cleaning, feature engineering, climate data integration, MinMaxScaler preprocessing, GRU sequence creation, cross-pipeline debugging, inverse transform post-processing (40%) |
-| B. Jasvanth | HDBSCAN clustering, Folium visualisation, GRU model architecture and training, model evaluation, Gemini AI climate insights, final integration and submission (60%) |
+| Jayant Pandey | Data ingestion, cleaning, feature engineering, climate data integration, MinMaxScaler preprocessing, GRU sequence creation, cross-pipeline debugging, inverse transform post-processing  |
+| B. Jasvanth | HDBSCAN clustering, Folium visualisation, GRU model architecture and training, model evaluation, Gemini AI climate insights, final integration and submission |
 
 ---
 
